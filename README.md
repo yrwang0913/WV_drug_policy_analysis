@@ -1,5 +1,5 @@
 # WV_drug_policy_analysis
-Analyse West Virginia drug authorisation policy with interrupted time series analysis (python).
+Skills: Time series analysis, data manipulation, data visualization, data validation, linear regression, exploratory data analysis, qauntitative research, prediction, modelling.
 
 [Mediciad](https://www.medicaid.gov/medicaid/index.html) in the United States is a health insurance programme that covers the medical expense for the lower income individuals. One of the very common drugs covered by Medicaid is the antipshychotics, which are the treatment of the mental illnesses such as schizphrenia and bipolor disorder.
 
