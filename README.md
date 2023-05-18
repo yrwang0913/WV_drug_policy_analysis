@@ -10,4 +10,4 @@ To limit the dramatic increase while not delisting the drugs, in April 2003, the
 
 In this project, we are going to **analyse the impact of the compulsory fill-in the form policy on the anti-psychotic drugs usage**. Did it really lead to an decrease, as planned, in the use of drugs? And what were to expect in the future after the policy intervention?
 
-###### The assignment of "Policy Analysis Using Interrupted Time Series Analysis" by Dr. Micheal Law, same data source.
+###### The assignment of "Policy Analysis Using Interrupted Time Series" by Dr. Micheal Law, same data source.
