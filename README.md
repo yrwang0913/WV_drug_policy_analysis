@@ -1,6 +1,7 @@
 # WV_drug_policy_analysis
 Skills: Time series analysis, data manipulation, data visualization, data validation, linear regression, exploratory data analysis, qauntitative research, prediction, modelling.
 
+## Introduction
 [Mediciad](https://www.medicaid.gov/medicaid/index.html) in the United States is a health insurance programme that covers the medical expense for the lower income individuals. One of the very common drugs covered by Medicaid is the antipshychotics, which are the treatment of the mental illnesses such as schizphrenia and bipolor disorder.
 
 There are two types of anti-psychotics drugs: Typical and atypical. During the 1990s, the atypical drugs were the fairly new category. They were still protected by the patents and were much more expensive than the typcical ones. Consequently, the states were spending quite lot money, from a half to 6 million USD every year from 1990 to 2005, in the reimbursements of the atypical anti-psychotic drugs.
