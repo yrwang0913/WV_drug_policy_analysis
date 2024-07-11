@@ -1,4 +1,6 @@
 # WV_drug_policy_analysis
+Please [click me](https://nbviewer.org/github/yrwang0913/WV_drug_policy_analysis/blob/main/West_Virginia_Drug_Authorisation_Policy.ipynb) to see the project.
+
 Skills: Time series analysis, data manipulation, data visualization, data validation, linear regression, exploratory data analysis, qauntitative research, prediction, modelling.
 
 ## Introduction
